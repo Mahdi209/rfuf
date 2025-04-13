@@ -1,0 +1,194 @@
+{
+  "books": [
+    {
+      "title": "فضائل الإمام علي",
+      "author": "النسائي",
+      "category": "دين",
+      "description": "جمع لأحاديث وفضائل الإمام علي بن أبي طالب عليه السلام.",
+      "pages": 120,
+      "image": "8.jpg",
+      "id": 1,
+      "rating": 5
+    },
+    {
+      "title": "المهدي الموعود",
+      "author": "محمد باقر الصدر",
+      "category": "دين",
+      "description": "رؤية دينية فلسفية عن فكرة الإمام المهدي وعقيدة الانتظار.",
+      "pages": 150,
+      "image": "6.jpg",
+      "id": 2,
+      "rating": 5
+    },
+    {
+      "title": "لأنك الله",
+      "author": "علي بن جابر الفيفي",
+      "category": "دين",
+      "description": "تأملات في بعض أسماء الله الحسنى بأسلوب بسيط وقريب.",
+      "pages": 192,
+      "image": "9.jpg",
+      "id": 3,
+      "rating": 5
+    },
+    {
+      "title": "تفسير ابن كثير",
+      "author": "ابن كثير",
+      "category": "دين",
+      "description": "تفسير شامل للقرآن الكريم بأسلوب سهل مدعوم بالأحاديث والآثار.",
+      "pages": 4000,
+      "image": "15.jpeg",
+      "id": 4,
+      "rating": 5
+    },
+    {
+      "title": "عجلة الزمن",
+      "author": "روبرت جوردون",
+      "category": "فانتازيا",
+      "description": "سلسلة خيالية ملحمية تحكي عن صراع الخير والشر في عالم متقن التفاصيل.",
+      "pages": 800,
+      "image": "10.jpg",
+      "id": 5,
+      "rating": 5
+    },
+    {
+      "title": "ملحمة البحور السبعة",
+      "author": "أسامة المسلم",
+      "category": "فانتازيا",
+      "description": "رواية سعودية تمزج الأسطورة والخيال في عالم البحور السبعة.",
+      "pages": 350,
+      "image": "11.jpg",
+      "id": 6,
+      "rating": 2
+    },
+    {
+      "title": "ظل الريح",
+      "author": "كارلوس زافون",
+      "category": "فانتازيا",
+      "description": "رواية غامضة تدور حول كتاب مفقود في برشلونة بعد الحرب.",
+      "pages": 500,
+      "image": "7.jpg",
+      "id": 7,
+      "rating": 5
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "category": "فانتازيا",
+      "description": "سيرة ذاتية خيالية لساحر يدعى كفوث، يسرد حياته من الطفولة حتى المجد.",
+      "pages": 662,
+      "image": "5.jpg",
+      "id": 8,
+      "rating": 3
+    },
+    {
+      "title": "الجسد يحفظ السر",
+      "author": "باسيل فان دير كولك",
+      "category": "تنمية",
+      "description": "كتاب يعرض تأثير الصدمات النفسية على الجسد والدماغ وطرق الشفاء.",
+      "pages": 464,
+      "image": "2.jpg",
+      "id": 9,
+      "rating": 4
+    },
+    {
+      "title": "The Soul of Money",
+      "author": "Lynne Twist",
+      "category": "تنمية",
+      "description": "كتاب يساعد على إعادة تشكيل علاقتك بالمال من منظور إنساني وروحي.",
+      "pages": 240,
+      "image": "3.jpg",
+      "id": 10,
+      "rating": 5
+    },
+    {
+      "title": "العادات السبع للناس الأكثر فعالية",
+      "author": "ستيفن كوفي",
+      "category": "تنمية",
+      "description": "دليل عملي لتغيير العادات وبناء شخصية قيادية فعّالة.",
+      "pages": 381,
+      "image": "19.jpeg",
+      "id": 11,
+      "rating": 5
+    },
+    {
+      "title": "فكر تصبح غنياً",
+      "author": "نابليون هيل",
+      "category": "تنمية",
+      "description": "كتاب تحفيزي كلاسيكي يشرح مبادئ النجاح من خلال التفكير الإيجابي والنية الواضحة.",
+      "pages": 320,
+      "image": "18.jpg",
+      "id": 12,
+      "rating": 5
+    },
+    {
+      "title": "الكود النظيف",
+      "author": "روبرت سي. مارتن",
+      "category": "برمجيات",
+      "description": "كتاب تقني يشرح كيفية كتابة كود برمجي نظيف وسهل الفهم والصيانة.",
+      "pages": 464,
+      "image": "1.jpg",
+      "id": 13,
+      "rating": 5
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt and David Thomas",
+      "category": "برمجيات",
+      "description": "كتاب برمجي كلاسيكي يقدم نصائح عملية للمطورين لبناء كود مرن وقابل للتطوير.",
+      "pages": 352,
+      "image": "4.jpg",
+      "id": 14,
+      "rating": 3
+    },
+    {
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "category": "برمجيات",
+      "description": "سلسلة كتب عميقة تغطي تفاصيل JavaScript من الأساس حتى المستوى المتقدم.",
+      "pages": 278,
+      "image": "17.jpg",
+      "id": 15,
+      "rating": 4
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs",
+      "author": "Harold Abelson and Gerald Jay Sussman",
+      "category": "برمجيات",
+      "description": "كتاب كلاسيكي في علم الحاسوب يغطي مفاهيم البرمجة الأساسية بلغة Scheme.",
+      "pages": 657,
+      "image": "16.jpg",
+      "id": 16,
+      "rating": 2
+    },
+    {
+      "title": "المعهد",
+      "author": "ستيفن كينغ",
+      "category": "رعب",
+      "description": "أطفال بقدرات خارقة يُحتجزون في معهد سري حيث تجري عليهم تجارب مخيفة.",
+      "pages": 576,
+      "image": "14.jpg",
+      "id": 17,
+      "rating": 3
+    },
+    {
+      "title": "الكابينة في نهاية العالم",
+      "author": "بول تريمبلي",
+      "category": "رعب",
+      "description": "قصة مرعبة عن أسرة تواجه خيارًا لا يُحتمل في كوخ معزول.",
+      "pages": 415,
+      "image": "12.jpg",
+      "id": 18,
+      "rating": 4
+    },
+    {
+      "title": "الظلام على مدينة إنزماوث",
+      "author": "H.P. Lovecraft",
+      "category": "رعب",
+      "description": "رواية قصيرة تستكشف الرعب الكوني في مدينة إنزماوث الغريبة.",
+      "pages": 90,
+      "image": "13.jpg",
+      "id": 19,
+      "rating": 3
+    }
+  ]
+}

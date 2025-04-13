@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <title>User Profile</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav>
+      <div id="home">
+        <a href="../index.html">
+          <button id="sidebar-toggle">
+            <i class="fas fa-arrow-right"></i>
+          </button>
+        </a>
+        <img id="bookImage" src="../assets/bookImages.jpg" alt="Book" />
+        <img id="LogoText" src="../assets/RFUFE.png" alt="RFUFE" />
+      </div>
+      <div id="logo">
+        <button id="search-btn" class="search-icon">
+          <i class="fas fa-search"></i>
+        </button>
+        <div id="user-profile">
+          <p>الملف الشخصي</p>
+          <img id="userImage" src="../assets/abd.jpg" alt="صورة المستخدم" />
+        </div>
+      </div>
+    </nav>
+
+    <!-- Profile Content -->
+    <div class="profile-container">
+      <div class="profile-header">
+        <img id="profileImage" src="../assets/abd.jpg" alt="Profile Picture" />
+        <h2 id="userName">User Name</h2>
+        <button id="followBtn"><i class="fas fa-user-plus"></i> Follow</button>
+
+        <div class="stats">
+          <div class="stat-item">
+            <div id="followersCount">0</div>
+            <div>Followers</div>
+          </div>
+          <div class="stat-item">
+            <div id="booksCount">0</div>
+            <div>Books</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="books-section">
+        <h3><i class="fas fa-heart"></i> Favorite Books</h3>
+        <div id="favBooks" class="books-list"></div>
+
+        <h3><i class="fas fa-download"></i> Downloaded Books</h3>
+        <div id="downloadedBooks" class="books-list"></div>
+      </div>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
